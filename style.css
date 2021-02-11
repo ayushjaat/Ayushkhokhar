@@ -332,7 +332,12 @@ p5 {
   margin: 16px;
   margin-top: 32px;
 }
-
+.music-maker{
+  display: flex;
+  flex-direction: column;
+  margin: 16px;
+  margin-top: 32px;
+}
 
 
 .btn{
