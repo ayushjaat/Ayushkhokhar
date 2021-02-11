@@ -95,7 +95,7 @@
 #projects1{
     display: flex;
     flex-direction: column;
-    height: 1900px;
+    height: 2450px;
 }
 }
 
@@ -316,6 +316,6 @@
   /* project.html section*/
   
   #projects1{
-    height: 2600px;
+    height: 3320px;
   }
 }
