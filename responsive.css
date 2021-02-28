@@ -319,3 +319,223 @@
     height: 3320px;
   }
 }
+
+@media only screen and (min-width: 1140px) and (max-width: 1500px){
+  .hamburger{
+    position: relative;
+    }
+    .h-nav{
+      height: 90px;
+    }
+    .v-class{
+      opacity: 1;
+    }
+    .navbar{
+      background-color: hotpink;
+    }
+    
+    .ul{
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      margin: 10px;
+      position: relative;
+    }
+    .logo{
+      margin-right: 50px;
+      font-size: 22px;
+      display: block;
+    }
+    
+    .container{
+      bottom: 10%;
+      flex-direction: row;
+    }
+    
+    .ul li a{
+      display: block;
+      font-size: 16px;
+    }
+      /* section 2*/
+  #home{
+    height: 590px;
+  }
+  
+  .head1{
+    font-size: 42px;
+  }
+  
+  .emoji1{
+    font-size: 62px;
+  }
+  .head2{
+    font-size: 30px;
+  }
+  
+  p1{
+  font-size: 24px;  
+  }
+  p2{
+    font-size: 24px;
+  }
+  .paragraph{
+    margin-top: 3%;
+  }
+  
+  .contact{
+    font-size: 23px;
+    margin-top: 3%;
+  }
+  
+  .word1{
+    font-size: 50px;
+  }
+  
+  .word2{
+    font-size: 50px;
+  }
+  
+  p3{
+    font-size: 24px;
+    margin-top: 2%;
+  }
+   /* section 3*/
+  
+   #skill{
+    height: 720px;
+  }
+  
+  .skill{
+    margin-left: 31%;
+    margin-right: 31%;
+    margin-bottom: 100px;
+  }
+  
+  .head3{
+    font-size: 40px;
+  }
+  
+  p4{
+    font-size: 27px;
+    margin-left: 20%;
+  }
+  
+  /* section 4*/
+  
+  .head5{
+    font-size: 40px;
+  }
+  
+  .img{
+    height: 330px;
+    width: 320px;
+    margin-left: 450px;
+  }
+  #projects{
+    height: 1880px;
+  }
+  p5{
+    font-size: 34px;
+    margin: 4%;
+  }
+  
+  .link1{
+    font-size: 26px;
+  }
+  
+  .link2{
+    font-size: 26px;
+  }
+  
+  .btn{
+    margin-left: 40% ;
+    margin-right: 40%;
+  }
+  
+  .btn a{
+    font-size: 27px;
+  }
+  
+  /* section 5*/
+  
+  #contact{
+    height: 350px;
+  }
+  
+  
+  p7{
+    font-size: 29px;
+    margin-left: 4%;
+  }
+  
+  .img2{
+    height: 40px;
+    width: 40px;
+  }
+  p8{
+   font-size: 20px; 
+   margin-top: 19px;
+  }
+  p9{
+    font-size: 20px;
+    margin-top: 19px;
+  }
+  
+  .email-now{
+    font-size: 24px;
+    margin-left: 550px;
+  }
+  
+  /* section 7*/
+  .slogan{
+    display: flex;
+  }
+  
+  p10{
+    font-size: 40px;
+    margin-top: 40px;
+  }
+  
+  /* section 8*/
+  
+  #footer{
+    height: 190px;
+  }
+  
+  .footer1{
+    margin-bottom: 20%;
+  }
+  .head6{
+    font-size: 26px;
+  }
+    .explore{
+    margin-left: 15%;
+    margin-bottom: 5%;
+  }
+  .favourite{
+    margin-left: 35%;
+    margin-bottom: 5%;
+  }
+  .social{
+    margin-left: 15%;
+    margin-bottom: 30px;
+  }
+  
+  .website-content li a{
+    font-size: 20px;
+  }
+  
+  .myfavourite li a{
+    font-size: 20px;
+  }
+  
+  .sociallink li a{
+    font-size: 20px;
+  }
+  
+  /* project.html section*/
+  
+  #projects1{
+    height: 3320px;
+  }
+}
